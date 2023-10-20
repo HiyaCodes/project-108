@@ -1,0 +1,46 @@
+body{
+    font-family: 'Dancing Script', cursive;
+    font-family: 'Quicksand', sans-serif;
+    font-family: 'Roboto Slab', serif;
+    background-color:rgb(111, 255, 255) ;
+    color: rgb(255, 181, 220);
+}
+
+.header_div{
+    color: rgb(255, 181, 220);
+    background-color: rgb(219, 75, 255);
+    font-family: 'Dancing Script', cursive;
+font-family: 'Quicksand', sans-serif;
+font-family: 'Roboto Slab', serif;
+    font-size: large;
+    letter-spacing: 3px;
+}
+.header_div p{
+
+font-family: 'Quicksand', sans-serif;
+font-family: 'Roboto Slab', serif;
+font-family: 'Tektur', cursive;
+    color: rgb(76, 0, 255);
+    font-size: 25px;
+}
+button{
+    width: 70px;
+    height: 70px;
+    border-radius: 35px;
+letter-spacing: 3px;
+font-weight: bolder;
+margin-top: 10px;
+background-color: rgb(162, 0, 255);
+}
+.copy_right_footer{
+position: fixed;
+bottom: 0;
+width: 100%;
+font-size: 18px;
+background-color: aliceblue;
+line-height: 3;
+text-align: center;
+color: rgb(226, 26, 26);
+text-shadow:5px 5px 5px rgb(255, 166, 0)  ;
+letter-spacing: 3px;
+}
