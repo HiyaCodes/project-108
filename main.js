@@ -8,7 +8,7 @@ function start_classification() {
     navigator.mediaDevices.getUserMedia({
         audio: true
     })
-    classifier = ml5.soundClassifier(" https://teachablemachine.withgoogle.com/models/FirUf3Ntg/model.js ", modelReady)
+    classifier = ml5.soundClassifier("https://teachablemachine.withgoogle.com/models/FirUf3Ntg/model.json", modelReady)
 }
 
 
